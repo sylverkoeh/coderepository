@@ -26,3 +26,4 @@ int main() {
         : cout << "Element is present at index " << result;
     return 0;
 }
+//hello
