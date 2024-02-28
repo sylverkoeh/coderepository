@@ -3,7 +3,7 @@
         return 0;
     }
 
-
+//also
  if(element->getSpeakerCount())
         {
             std::vector<std::string> name = element->getSpeakerNames();
